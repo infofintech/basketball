@@ -1,0 +1,1 @@
+Basketball=||=basketball.ball.png=||=window.location.href='basketball.htm';

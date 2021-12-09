@@ -1,2 +1,2 @@
-# basketball
+# Basketball
 A cool basketball game.
