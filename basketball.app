@@ -1,1 +1,1 @@
-Basketball|[1]|basketball.ball.png|[1]|window.location.href='basketball.htm';
+Basketball|[1]|sys.basketball.png|[1]|window.location.href='basketball.htm';
