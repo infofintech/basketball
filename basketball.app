@@ -1,1 +1,1 @@
-Basketball|[1]|sys.basketball.png|[1]|window.location.href='basketball.htm';
+title|[>]|Basketball|[1]|favicon|[>]|sys.basketball.png|[1]|run|[>]|window.location.href='basketball.htm';
